@@ -1,86 +1,1502 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 3 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1727470382929 tunnel running, 3 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 3 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1727472483708 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Qi93AAAAAQAAAAEAAAAAAAAAAImRRDBoFbY-C9JBZeco30XlSMk23cDSIHhBLDRhdnnu
-
-TUNNELS
-policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
-telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727470386058 tunnel running, 3 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Qi93AAAAAQAAAAEAAAAAAAAAAImRRDBoFbY-C9JBZeco30XlSMk23cDSIHhBLDRhdnnu
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Yj2zAAAAAQAAAAEAAAAAAAAAAEbr6SjkZFhMyVz9H3pJ-2Qcv1g1gi89wlwqFRaGBToR
 
 TUNNELS
 policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
 telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727470389139 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727472486907 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Qi93AAAAAQAAAAEAAAAAAAAAAImRRDBoFbY-C9JBZeco30XlSMk23cDSIHhBLDRhdnnu
-
-TUNNELS
-policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
-telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727470392218 tunnel running, 3 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Qi93AAAAAQAAAAEAAAAAAAAAAImRRDBoFbY-C9JBZeco30XlSMk23cDSIHhBLDRhdnnu
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Yj2zAAAAAQAAAAEAAAAAAAAAAEbr6SjkZFhMyVz9H3pJ-2Qcv1g1gi89wlwqFRaGBToR
 
 TUNNELS
 policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
 telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727470395312 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727472489985 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Qi93AAAAAQAAAAEAAAAAAAAAAImRRDBoFbY-C9JBZeco30XlSMk23cDSIHhBLDRhdnnu
-
-TUNNELS
-policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
-telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727470398376 tunnel running, 3 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1QmvYAAAAAQAAAAEAAAAAAAAAAJPpVBxGx6pc9B47g8OyY3Khd0ZaaoO55N9cqP6y3tK6
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Yj2zAAAAAQAAAAEAAAAAAAAAAEbr6SjkZFhMyVz9H3pJ-2Qcv1g1gi89wlwqFRaGBToR
 
 TUNNELS
 policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
 telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727470401536 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727472493881 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1QmvYAAAAAQAAAAEAAAAAAAAAAJPpVBxGx6pc9B47g8OyY3Khd0ZaaoO55N9cqP6y3tK6
-
-TUNNELS
-policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
-telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727470404626 tunnel running, 3 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1QmvYAAAAAQAAAAEAAAAAAAAAAJPpVBxGx6pc9B47g8OyY3Khd0ZaaoO55N9cqP6y3tK6
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Yj2zAAAAAQAAAAEAAAAAAAAAAEbr6SjkZFhMyVz9H3pJ-2Qcv1g1gi89wlwqFRaGBToR
 
 TUNNELS
 policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
 telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727470407698 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727472498020 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1QmvYAAAAAQAAAAEAAAAAAAAAAJPpVBxGx6pc9B47g8OyY3Khd0ZaaoO55N9cqP6y3tK6
-
-TUNNELS
-policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
-telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727470410777 tunnel running, 3 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1QmvYAAAAAQAAAAEAAAAAAAAAAJPpVBxGx6pc9B47g8OyY3Khd0ZaaoO55N9cqP6y3tK6
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Yj2zAAAAAQAAAAEAAAAAAAAAAEbr6SjkZFhMyVz9H3pJ-2Qcv1g1gi89wlwqFRaGBToR
 
 TUNNELS
 policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
 telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1727470413852 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.15.26): 1727472501369 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1QqhPAAAAAQAAAAEAAAAAAAAAAPQNxG8JFDVrp8OCrjbwFmPXurUWG2bSI1A2CTPFimwu
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1YoKgAAAAAQAAAAEAAAAAAAAAAH4h3U1nAalJWEo9CIQ3YcsQWuIu5MwUipKi8Za96ORA
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472504500 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1YoKgAAAAAQAAAAEAAAAAAAAAAH4h3U1nAalJWEo9CIQ3YcsQWuIu5MwUipKi8Za96ORA
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472508529 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1YoKgAAAAAQAAAAEAAAAAAAAAAH4h3U1nAalJWEo9CIQ3YcsQWuIu5MwUipKi8Za96ORA
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472511597 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1YoKgAAAAAQAAAAEAAAAAAAAAAH4h3U1nAalJWEo9CIQ3YcsQWuIu5MwUipKi8Za96ORA
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472514661 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1YoKgAAAAAQAAAAEAAAAAAAAAAH4h3U1nAalJWEo9CIQ3YcsQWuIu5MwUipKi8Za96ORA
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472517724 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1YsaGAAAAAQAAAAEAAAAAAAAAAB8MIf0yaQ3j8pj0q6DtKjkYlMMTcA2l1JRTfEDpdDNN
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472522334 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1YsaGAAAAAQAAAAEAAAAAAAAAAB8MIf0yaQ3j8pj0q6DtKjkYlMMTcA2l1JRTfEDpdDNN
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472527142 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1YsaGAAAAAQAAAAEAAAAAAAAAAB8MIf0yaQ3j8pj0q6DtKjkYlMMTcA2l1JRTfEDpdDNN
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472530218 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1YsaGAAAAAQAAAAEAAAAAAAAAAB8MIf0yaQ3j8pj0q6DtKjkYlMMTcA2l1JRTfEDpdDNN
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472533282 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1YsaGAAAAAQAAAAEAAAAAAAAAAB8MIf0yaQ3j8pj0q6DtKjkYlMMTcA2l1JRTfEDpdDNN
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472536356 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1YwtRAAAAAQAAAAEAAAAAAAAAAIlEToHYADN4FT10iSh28UdYuPYUzxjtTaUDujYm4FbT
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472539482 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1YwtRAAAAAQAAAAEAAAAAAAAAAIlEToHYADN4FT10iSh28UdYuPYUzxjtTaUDujYm4FbT
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472542555 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1YwtRAAAAAQAAAAEAAAAAAAAAAIlEToHYADN4FT10iSh28UdYuPYUzxjtTaUDujYm4FbT
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472545623 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1YwtRAAAAAQAAAAEAAAAAAAAAAIlEToHYADN4FT10iSh28UdYuPYUzxjtTaUDujYm4FbT
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472548701 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1YwtRAAAAAQAAAAEAAAAAAAAAAIlEToHYADN4FT10iSh28UdYuPYUzxjtTaUDujYm4FbT
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472551770 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Y0eEAAAAAQAAAAEAAAAAAAAAAF6Ebt9Ych0SLkeYR5iZnpAij0EjUXA-w9UKNfBzkJ0F
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472554902 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Y0eEAAAAAQAAAAEAAAAAAAAAAF6Ebt9Ych0SLkeYR5iZnpAij0EjUXA-w9UKNfBzkJ0F
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472557976 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Y0eEAAAAAQAAAAEAAAAAAAAAAF6Ebt9Ych0SLkeYR5iZnpAij0EjUXA-w9UKNfBzkJ0F
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472561039 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Y0eEAAAAAQAAAAEAAAAAAAAAAF6Ebt9Ych0SLkeYR5iZnpAij0EjUXA-w9UKNfBzkJ0F
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472564108 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Y0eEAAAAAQAAAAEAAAAAAAAAAF6Ebt9Ych0SLkeYR5iZnpAij0EjUXA-w9UKNfBzkJ0F
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472567177 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Y4O7AAAAAQAAAAEAAAAAAAAAALziJ1p6s2OoQCKRy6iTlDdP0F8oHRr7dUdTOvJr9CHr
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472570316 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Y4O7AAAAAQAAAAEAAAAAAAAAALziJ1p6s2OoQCKRy6iTlDdP0F8oHRr7dUdTOvJr9CHr
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472573396 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Y4O7AAAAAQAAAAEAAAAAAAAAALziJ1p6s2OoQCKRy6iTlDdP0F8oHRr7dUdTOvJr9CHr
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472576466 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Y4O7AAAAAQAAAAEAAAAAAAAAALziJ1p6s2OoQCKRy6iTlDdP0F8oHRr7dUdTOvJr9CHr
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472579543 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Y4O7AAAAAQAAAAEAAAAAAAAAALziJ1p6s2OoQCKRy6iTlDdP0F8oHRr7dUdTOvJr9CHr
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472582614 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Y8J_AAAAAQAAAAEAAAAAAAAAAIX17AkUJath4jPO8U42wEyqwXVR-CUvAcXPsZQXYqfS
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472586515 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Y8J_AAAAAQAAAAEAAAAAAAAAAIX17AkUJath4jPO8U42wEyqwXVR-CUvAcXPsZQXYqfS
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472589585 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Y8J_AAAAAQAAAAEAAAAAAAAAAIX17AkUJath4jPO8U42wEyqwXVR-CUvAcXPsZQXYqfS
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472592657 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Y8J_AAAAAQAAAAEAAAAAAAAAAIX17AkUJath4jPO8U42wEyqwXVR-CUvAcXPsZQXYqfS
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472595734 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Y8J_AAAAAQAAAAEAAAAAAAAAAIX17AkUJath4jPO8U42wEyqwXVR-CUvAcXPsZQXYqfS
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472598800 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Y_83AAAAAQAAAAEAAAAAAAAAAJOfMQcR5MJpXtgVQMLnGhAdqQkCXm91ilRJq3VTokBQ
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472601926 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Y_83AAAAAQAAAAEAAAAAAAAAAJOfMQcR5MJpXtgVQMLnGhAdqQkCXm91ilRJq3VTokBQ
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472605005 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Y_83AAAAAQAAAAEAAAAAAAAAAJOfMQcR5MJpXtgVQMLnGhAdqQkCXm91ilRJq3VTokBQ
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472608074 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Y_83AAAAAQAAAAEAAAAAAAAAAJOfMQcR5MJpXtgVQMLnGhAdqQkCXm91ilRJq3VTokBQ
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472611153 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Y_83AAAAAQAAAAEAAAAAAAAAAJOfMQcR5MJpXtgVQMLnGhAdqQkCXm91ilRJq3VTokBQ
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472614220 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZDt0AAAAAQAAAAEAAAAAAAAAABLhoNOem47MPz1P7qhpCH-3oJxTLrBS2sZEORISWrde
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472617351 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZDt0AAAAAQAAAAEAAAAAAAAAABLhoNOem47MPz1P7qhpCH-3oJxTLrBS2sZEORISWrde
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472620424 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZDt0AAAAAQAAAAEAAAAAAAAAABLhoNOem47MPz1P7qhpCH-3oJxTLrBS2sZEORISWrde
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472623488 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZDt0AAAAAQAAAAEAAAAAAAAAABLhoNOem47MPz1P7qhpCH-3oJxTLrBS2sZEORISWrde
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472626553 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZDt0AAAAAQAAAAEAAAAAAAAAABLhoNOem47MPz1P7qhpCH-3oJxTLrBS2sZEORISWrde
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472629614 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZHeVAAAAAQAAAAEAAAAAAAAAAKeIcp2mCLwiMxujuVRNOvoebUoB8CLw7LwEjEeMb0DT
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472632732 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZHeVAAAAAQAAAAEAAAAAAAAAAKeIcp2mCLwiMxujuVRNOvoebUoB8CLw7LwEjEeMb0DT
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472635796 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZHeVAAAAAQAAAAEAAAAAAAAAAKeIcp2mCLwiMxujuVRNOvoebUoB8CLw7LwEjEeMb0DT
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472638858 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZHeVAAAAAQAAAAEAAAAAAAAAAKeIcp2mCLwiMxujuVRNOvoebUoB8CLw7LwEjEeMb0DT
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472641924 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZHeVAAAAAQAAAAEAAAAAAAAAAKeIcp2mCLwiMxujuVRNOvoebUoB8CLw7LwEjEeMb0DT
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472644996 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZLQBAAAAAQAAAAEAAAAAAAAAAESb4lDbS0_QOBqJX5PdIFFJ6r86p5ayAPRFbA5_dfEb
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472648196 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZLQBAAAAAQAAAAEAAAAAAAAAAESb4lDbS0_QOBqJX5PdIFFJ6r86p5ayAPRFbA5_dfEb
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472651259 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZLQBAAAAAQAAAAEAAAAAAAAAAESb4lDbS0_QOBqJX5PdIFFJ6r86p5ayAPRFbA5_dfEb
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472654320 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZLQBAAAAAQAAAAEAAAAAAAAAAESb4lDbS0_QOBqJX5PdIFFJ6r86p5ayAPRFbA5_dfEb
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472657441 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZLQBAAAAAQAAAAEAAAAAAAAAAESb4lDbS0_QOBqJX5PdIFFJ6r86p5ayAPRFbA5_dfEb
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472660544 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZPBpAAAAAQAAAAEAAAAAAAAAAIjV6AvORzfUneRddyKCCW_5UIY-oGMrqBGHHP2PPLpE
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472663673 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZPBpAAAAAQAAAAEAAAAAAAAAAIjV6AvORzfUneRddyKCCW_5UIY-oGMrqBGHHP2PPLpE
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472666738 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZPBpAAAAAQAAAAEAAAAAAAAAAIjV6AvORzfUneRddyKCCW_5UIY-oGMrqBGHHP2PPLpE
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472669829 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZPBpAAAAAQAAAAEAAAAAAAAAAIjV6AvORzfUneRddyKCCW_5UIY-oGMrqBGHHP2PPLpE
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472672894 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZPBpAAAAAQAAAAEAAAAAAAAAAIjV6AvORzfUneRddyKCCW_5UIY-oGMrqBGHHP2PPLpE
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472675974 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZSyyAAAAAQAAAAEAAAAAAAAAAH8UAtRxNy5tLtn0oC914lIpJrnR2T_lxtd14aXIbX7H
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472680755 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZSyyAAAAAQAAAAEAAAAAAAAAAH8UAtRxNy5tLtn0oC914lIpJrnR2T_lxtd14aXIbX7H
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472683827 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZSyyAAAAAQAAAAEAAAAAAAAAAH8UAtRxNy5tLtn0oC914lIpJrnR2T_lxtd14aXIbX7H
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472688296 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZSyyAAAAAQAAAAEAAAAAAAAAAH8UAtRxNy5tLtn0oC914lIpJrnR2T_lxtd14aXIbX7H
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472691843 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZWq3AAAAAQAAAAEAAAAAAAAAAIT3PSO7iXJWMlagOE6c_d4BkjNHBmd1qYUgU9E6oo2E
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472695735 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZWq3AAAAAQAAAAEAAAAAAAAAAIT3PSO7iXJWMlagOE6c_d4BkjNHBmd1qYUgU9E6oo2E
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472698799 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZWq3AAAAAQAAAAEAAAAAAAAAAIT3PSO7iXJWMlagOE6c_d4BkjNHBmd1qYUgU9E6oo2E
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472701858 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZWq3AAAAAQAAAAEAAAAAAAAAAIT3PSO7iXJWMlagOE6c_d4BkjNHBmd1qYUgU9E6oo2E
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472704924 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZWq3AAAAAQAAAAEAAAAAAAAAAIT3PSO7iXJWMlagOE6c_d4BkjNHBmd1qYUgU9E6oo2E
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472707984 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Zam_AAAAAQAAAAEAAAAAAAAAAKAkXLpkDjtTPle9qNieSq4JOAR9v1FKD1T9nl9nbq1-
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472711108 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Zam_AAAAAQAAAAEAAAAAAAAAAKAkXLpkDjtTPle9qNieSq4JOAR9v1FKD1T9nl9nbq1-
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472714174 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Zam_AAAAAQAAAAEAAAAAAAAAAKAkXLpkDjtTPle9qNieSq4JOAR9v1FKD1T9nl9nbq1-
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472717525 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Zam_AAAAAQAAAAEAAAAAAAAAAKAkXLpkDjtTPle9qNieSq4JOAR9v1FKD1T9nl9nbq1-
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472720595 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Zam_AAAAAQAAAAEAAAAAAAAAAKAkXLpkDjtTPle9qNieSq4JOAR9v1FKD1T9nl9nbq1-
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472723661 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Zeb3AAAAAQAAAAEAAAAAAAAAANM-q5_qj5rwCGijItbLozJP1sleAO90NDZN7GZraRSd
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472726777 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Zeb3AAAAAQAAAAEAAAAAAAAAANM-q5_qj5rwCGijItbLozJP1sleAO90NDZN7GZraRSd
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472729885 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Zeb3AAAAAQAAAAEAAAAAAAAAANM-q5_qj5rwCGijItbLozJP1sleAO90NDZN7GZraRSd
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472732956 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Zeb3AAAAAQAAAAEAAAAAAAAAANM-q5_qj5rwCGijItbLozJP1sleAO90NDZN7GZraRSd
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472736023 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Zeb3AAAAAQAAAAEAAAAAAAAAANM-q5_qj5rwCGijItbLozJP1sleAO90NDZN7GZraRSd
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472739134 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZiNrAAAAAQAAAAEAAAAAAAAAAMBgMA5JFMzsguwKwB-TBbT4Gfd0jIs2qdI57_A199vh
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472742251 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZiNrAAAAAQAAAAEAAAAAAAAAAMBgMA5JFMzsguwKwB-TBbT4Gfd0jIs2qdI57_A199vh
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472745314 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZiNrAAAAAQAAAAEAAAAAAAAAAMBgMA5JFMzsguwKwB-TBbT4Gfd0jIs2qdI57_A199vh
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472748374 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZiNrAAAAAQAAAAEAAAAAAAAAAMBgMA5JFMzsguwKwB-TBbT4Gfd0jIs2qdI57_A199vh
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472751435 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZiNrAAAAAQAAAAEAAAAAAAAAAMBgMA5JFMzsguwKwB-TBbT4Gfd0jIs2qdI57_A199vh
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472754494 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZmOJAAAAAQAAAAEAAAAAAAAAAPscBOPPs72Ert4BZ59HtpnNTbXstsCuHefsNX10jMXH
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472758787 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZmOJAAAAAQAAAAEAAAAAAAAAAPscBOPPs72Ert4BZ59HtpnNTbXstsCuHefsNX10jMXH
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472761849 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZmOJAAAAAQAAAAEAAAAAAAAAAPscBOPPs72Ert4BZ59HtpnNTbXstsCuHefsNX10jMXH
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472764912 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZmOJAAAAAQAAAAEAAAAAAAAAAPscBOPPs72Ert4BZ59HtpnNTbXstsCuHefsNX10jMXH
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472767973 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZmOJAAAAAQAAAAEAAAAAAAAAAPscBOPPs72Ert4BZ59HtpnNTbXstsCuHefsNX10jMXH
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472771030 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Zp_-AAAAAQAAAAEAAAAAAAAAAFtstlx1vcu8jMNHhe9ObYA3_CuW-PzXeH60UFW5SGMk
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472774144 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Zp_-AAAAAQAAAAEAAAAAAAAAAFtstlx1vcu8jMNHhe9ObYA3_CuW-PzXeH60UFW5SGMk
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472777219 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Zp_-AAAAAQAAAAEAAAAAAAAAAFtstlx1vcu8jMNHhe9ObYA3_CuW-PzXeH60UFW5SGMk
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472780292 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Zp_-AAAAAQAAAAEAAAAAAAAAAFtstlx1vcu8jMNHhe9ObYA3_CuW-PzXeH60UFW5SGMk
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472783923 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Zp_-AAAAAQAAAAEAAAAAAAAAAFtstlx1vcu8jMNHhe9ObYA3_CuW-PzXeH60UFW5SGMk
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472786992 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Zt5bAAAAAQAAAAEAAAAAAAAAAJ916jKOTr_4R-rYKSV-PuN7lwKlpnTRa0swfQsYKm9z
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472790113 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Zt5bAAAAAQAAAAEAAAAAAAAAAJ916jKOTr_4R-rYKSV-PuN7lwKlpnTRa0swfQsYKm9z
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472793175 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Zt5bAAAAAQAAAAEAAAAAAAAAAJ916jKOTr_4R-rYKSV-PuN7lwKlpnTRa0swfQsYKm9z
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472796260 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Zt5bAAAAAQAAAAEAAAAAAAAAAJ916jKOTr_4R-rYKSV-PuN7lwKlpnTRa0swfQsYKm9z
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472799327 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Zt5bAAAAAQAAAAEAAAAAAAAAAJ916jKOTr_4R-rYKSV-PuN7lwKlpnTRa0swfQsYKm9z
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472802394 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZxqJAAAAAQAAAAEAAAAAAAAAAMI1MzLYFXgDwb6lw6HOXw7IX0hQmdHr3Nyo5OAFffEW
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472805536 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZxqJAAAAAQAAAAEAAAAAAAAAAMI1MzLYFXgDwb6lw6HOXw7IX0hQmdHr3Nyo5OAFffEW
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472808598 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZxqJAAAAAQAAAAEAAAAAAAAAAMI1MzLYFXgDwb6lw6HOXw7IX0hQmdHr3Nyo5OAFffEW
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472811669 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZxqJAAAAAQAAAAEAAAAAAAAAAMI1MzLYFXgDwb6lw6HOXw7IX0hQmdHr3Nyo5OAFffEW
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472814728 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ZxqJAAAAAQAAAAEAAAAAAAAAAMI1MzLYFXgDwb6lw6HOXw7IX0hQmdHr3Nyo5OAFffEW
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472817813 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Z1bCAAAAAQAAAAEAAAAAAAAAAL8CpQOTRZVay6AQVuL6lF35kkSo15nlodh8wAVVZ6rS
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472820933 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Z1bCAAAAAQAAAAEAAAAAAAAAAL8CpQOTRZVay6AQVuL6lF35kkSo15nlodh8wAVVZ6rS
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472824005 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Z1bCAAAAAQAAAAEAAAAAAAAAAL8CpQOTRZVay6AQVuL6lF35kkSo15nlodh8wAVVZ6rS
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472827065 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Z1bCAAAAAQAAAAEAAAAAAAAAAL8CpQOTRZVay6AQVuL6lF35kkSo15nlodh8wAVVZ6rS
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472830133 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Z1bCAAAAAQAAAAEAAAAAAAAAAL8CpQOTRZVay6AQVuL6lF35kkSo15nlodh8wAVVZ6rS
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472834430 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Z5euAAAAAQAAAAEAAAAAAAAAABPIeSC83uyl1Lfo9nCc5tcvZ1P7ZKWlW4XSvFe-Vs8Y
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472837553 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Z5euAAAAAQAAAAEAAAAAAAAAABPIeSC83uyl1Lfo9nCc5tcvZ1P7ZKWlW4XSvFe-Vs8Y
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472840619 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Z5euAAAAAQAAAAEAAAAAAAAAABPIeSC83uyl1Lfo9nCc5tcvZ1P7ZKWlW4XSvFe-Vs8Y
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472843680 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Z5euAAAAAQAAAAEAAAAAAAAAABPIeSC83uyl1Lfo9nCc5tcvZ1P7ZKWlW4XSvFe-Vs8Y
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472846854 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Z5euAAAAAQAAAAEAAAAAAAAAABPIeSC83uyl1Lfo9nCc5tcvZ1P7ZKWlW4XSvFe-Vs8Y
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472849917 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Z9QvAAAAAQAAAAEAAAAAAAAAAFRQlHVNPTiMl6_BSfcdA3cKzYCeb2fcX5uuk2PT03o-
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472853058 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Z9QvAAAAAQAAAAEAAAAAAAAAAFRQlHVNPTiMl6_BSfcdA3cKzYCeb2fcX5uuk2PT03o-
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472856135 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Z9QvAAAAAQAAAAEAAAAAAAAAAFRQlHVNPTiMl6_BSfcdA3cKzYCeb2fcX5uuk2PT03o-
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472859212 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Z9QvAAAAAQAAAAEAAAAAAAAAAFRQlHVNPTiMl6_BSfcdA3cKzYCeb2fcX5uuk2PT03o-
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472862315 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1Z9QvAAAAAQAAAAEAAAAAAAAAAFRQlHVNPTiMl6_BSfcdA3cKzYCeb2fcX5uuk2PT03o-
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472865388 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1aBHeAAAAAQAAAAEAAAAAAAAAAFzUitgEjC_dcIRcsXTuQwXXpyN1wLxO6f9ww1qpvqqJ
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472868867 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1aBHeAAAAAQAAAAEAAAAAAAAAAFzUitgEjC_dcIRcsXTuQwXXpyN1wLxO6f9ww1qpvqqJ
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472871933 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1aBHeAAAAAQAAAAEAAAAAAAAAAFzUitgEjC_dcIRcsXTuQwXXpyN1wLxO6f9ww1qpvqqJ
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472875009 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1aBHeAAAAAQAAAAEAAAAAAAAAAFzUitgEjC_dcIRcsXTuQwXXpyN1wLxO6f9ww1qpvqqJ
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472878103 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1aBHeAAAAAQAAAAEAAAAAAAAAAFzUitgEjC_dcIRcsXTuQwXXpyN1wLxO6f9ww1qpvqqJ
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472881162 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1aE48AAAAAQAAAAEAAAAAAAAAAIGYKXAnYdElQH6WfmMb1cMHgSOqdq951-6kC3po295b
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472884331 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1aE48AAAAAQAAAAEAAAAAAAAAAIGYKXAnYdElQH6WfmMb1cMHgSOqdq951-6kC3po295b
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472887654 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1aE48AAAAAQAAAAEAAAAAAAAAAIGYKXAnYdElQH6WfmMb1cMHgSOqdq951-6kC3po295b
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472890760 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1aE48AAAAAQAAAAEAAAAAAAAAAIGYKXAnYdElQH6WfmMb1cMHgSOqdq951-6kC3po295b
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472893858 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1aE48AAAAAQAAAAEAAAAAAAAAAIGYKXAnYdElQH6WfmMb1cMHgSOqdq951-6kC3po295b
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472896928 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1aIvTAAAAAQAAAAEAAAAAAAAAAFH_FuZ5-AkxHPLssYNF_96lDP14rswBZRG74rwOIG8t
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472900143 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1aIvTAAAAAQAAAAEAAAAAAAAAAFH_FuZ5-AkxHPLssYNF_96lDP14rswBZRG74rwOIG8t
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472903212 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1aIvTAAAAAQAAAAEAAAAAAAAAAFH_FuZ5-AkxHPLssYNF_96lDP14rswBZRG74rwOIG8t
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472906290 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1aIvTAAAAAQAAAAEAAAAAAAAAAFH_FuZ5-AkxHPLssYNF_96lDP14rswBZRG74rwOIG8t
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472909372 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1aIvTAAAAAQAAAAEAAAAAAAAAAFH_FuZ5-AkxHPLssYNF_96lDP14rswBZRG74rwOIG8t
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472912440 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1aMhnAAAAAQAAAAEAAAAAAAAAACxRz9QKVBd499uQsdu-vr-0enCGLcpMHb0UjkUb0KNX
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472915569 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1aMhnAAAAAQAAAAEAAAAAAAAAACxRz9QKVBd499uQsdu-vr-0enCGLcpMHb0UjkUb0KNX
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472918638 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1aMhnAAAAAQAAAAEAAAAAAAAAACxRz9QKVBd499uQsdu-vr-0enCGLcpMHb0UjkUb0KNX
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472921702 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1aMhnAAAAAQAAAAEAAAAAAAAAACxRz9QKVBd499uQsdu-vr-0enCGLcpMHb0UjkUb0KNX
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472924774 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1aMhnAAAAAQAAAAEAAAAAAAAAACxRz9QKVBd499uQsdu-vr-0enCGLcpMHb0UjkUb0KNX
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472927863 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1aQT3AAAAAQAAAAEAAAAAAAAAAHYQ7HcK_2T_0D1ouwPO-9RU8HDvufjn80L0xI0bhg8I
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472931080 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1aQT3AAAAAQAAAAEAAAAAAAAAAHYQ7HcK_2T_0D1ouwPO-9RU8HDvufjn80L0xI0bhg8I
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472934140 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1aQT3AAAAAQAAAAEAAAAAAAAAAHYQ7HcK_2T_0D1ouwPO-9RU8HDvufjn80L0xI0bhg8I
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472937204 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1aQT3AAAAAQAAAAEAAAAAAAAAAHYQ7HcK_2T_0D1ouwPO-9RU8HDvufjn80L0xI0bhg8I
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472940274 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1aQT3AAAAAQAAAAEAAAAAAAAAAHYQ7HcK_2T_0D1ouwPO-9RU8HDvufjn80L0xI0bhg8I
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472943342 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1aUEbAAAAAQAAAAEAAAAAAAAAAGX2hxHnhvxz5TvVlbTPfClRBav_uQeyNiBO6QdStUUi
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472946458 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1aUEbAAAAAQAAAAEAAAAAAAAAAGX2hxHnhvxz5TvVlbTPfClRBav_uQeyNiBO6QdStUUi
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472949523 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1aUEbAAAAAQAAAAEAAAAAAAAAAGX2hxHnhvxz5TvVlbTPfClRBav_uQeyNiBO6QdStUUi
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472952582 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1aUEbAAAAAQAAAAEAAAAAAAAAAGX2hxHnhvxz5TvVlbTPfClRBav_uQeyNiBO6QdStUUi
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472955649 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1aUEbAAAAAQAAAAEAAAAAAAAAAGX2hxHnhvxz5TvVlbTPfClRBav_uQeyNiBO6QdStUUi
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472958715 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1aX0vAAAAAQAAAAEAAAAAAAAAAKbppltugG0V0Eola_zbVJDmuLtgcV_i36m9VweQhkgG
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472961876 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1aX0vAAAAAQAAAAEAAAAAAAAAAKbppltugG0V0Eola_zbVJDmuLtgcV_i36m9VweQhkgG
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472964952 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1aX0vAAAAAQAAAAEAAAAAAAAAAKbppltugG0V0Eola_zbVJDmuLtgcV_i36m9VweQhkgG
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472968015 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1aX0vAAAAAQAAAAEAAAAAAAAAAKbppltugG0V0Eola_zbVJDmuLtgcV_i36m9VweQhkgG
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472971077 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1aX0vAAAAAQAAAAEAAAAAAAAAAKbppltugG0V0Eola_zbVJDmuLtgcV_i36m9VweQhkgG
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472974150 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1abl8AAAAAQAAAAEAAAAAAAAAADQDF_skVhFSgAxbVNoH78vR7IWmne0B6RCc7eSErfOM
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472977289 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1abl8AAAAAQAAAAEAAAAAAAAAADQDF_skVhFSgAxbVNoH78vR7IWmne0B6RCc7eSErfOM
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472980345 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1abl8AAAAAQAAAAEAAAAAAAAAADQDF_skVhFSgAxbVNoH78vR7IWmne0B6RCc7eSErfOM
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472983405 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1abl8AAAAAQAAAAEAAAAAAAAAADQDF_skVhFSgAxbVNoH78vR7IWmne0B6RCc7eSErfOM
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472986466 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1abl8AAAAAQAAAAEAAAAAAAAAADQDF_skVhFSgAxbVNoH78vR7IWmne0B6RCc7eSErfOM
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472989529 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1afWSAAAAAQAAAAEAAAAAAAAAACVs9gmELXmORpJ8K29s_tO1Ccu5fWM3fc3EXA0ldJ5P
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472992662 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1afWSAAAAAQAAAAEAAAAAAAAAACVs9gmELXmORpJ8K29s_tO1Ccu5fWM3fc3EXA0ldJ5P
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727472995726 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1afWSAAAAAQAAAAEAAAAAAAAAACVs9gmELXmORpJ8K29s_tO1Ccu5fWM3fc3EXA0ldJ5P
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727473000309 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1afWSAAAAAQAAAAEAAAAAAAAAACVs9gmELXmORpJ8K29s_tO1Ccu5fWM3fc3EXA0ldJ5P
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727473003378 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1afWSAAAAAQAAAAEAAAAAAAAAACVs9gmELXmORpJ8K29s_tO1Ccu5fWM3fc3EXA0ldJ5P
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727473006444 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ajs9AAAAAQAAAAEAAAAAAAAAAA3A1zYhfnvsUYeaKQ7W9n5ML6Hko7d5Olt4ZYDDBu_G
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727473010567 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ajs9AAAAAQAAAAEAAAAAAAAAAA3A1zYhfnvsUYeaKQ7W9n5ML6Hko7d5Olt4ZYDDBu_G
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727473013629 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ajs9AAAAAQAAAAEAAAAAAAAAAA3A1zYhfnvsUYeaKQ7W9n5ML6Hko7d5Olt4ZYDDBu_G
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727473016697 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ajs9AAAAAQAAAAEAAAAAAAAAAA3A1zYhfnvsUYeaKQ7W9n5ML6Hko7d5Olt4ZYDDBu_G
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727473019780 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1ajs9AAAAAQAAAAEAAAAAAAAAAA3A1zYhfnvsUYeaKQ7W9n5ML6Hko7d5Olt4ZYDDBu_G
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727473023991 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1anwlAAAAAQAAAAEAAAAAAAAAADAT53s94-Tl_B1RxTQccLIH0t0rgj7Dpo5sYVWyCdDX
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727473027160 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1anwlAAAAAQAAAAEAAAAAAAAAADAT53s94-Tl_B1RxTQccLIH0t0rgj7Dpo5sYVWyCdDX
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727473030235 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1anwlAAAAAQAAAAEAAAAAAAAAADAT53s94-Tl_B1RxTQccLIH0t0rgj7Dpo5sYVWyCdDX
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727473033298 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1anwlAAAAAQAAAAEAAAAAAAAAADAT53s94-Tl_B1RxTQccLIH0t0rgj7Dpo5sYVWyCdDX
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727473036366 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1anwlAAAAAQAAAAEAAAAAAAAAADAT53s94-Tl_B1RxTQccLIH0t0rgj7Dpo5sYVWyCdDX
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727473039465 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1aricAAAAAQAAAAEAAAAAAAAAAAwEn3zrSIyFg_b4kJr7m1_gjc_G0OyyuUvVDZR6PTfb
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727473042598 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1aricAAAAAQAAAAEAAAAAAAAAAAwEn3zrSIyFg_b4kJr7m1_gjc_G0OyyuUvVDZR6PTfb
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727473045738 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1aricAAAAAQAAAAEAAAAAAAAAAAwEn3zrSIyFg_b4kJr7m1_gjc_G0OyyuUvVDZR6PTfb
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727473048807 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1aricAAAAAQAAAAEAAAAAAAAAAAwEn3zrSIyFg_b4kJr7m1_gjc_G0OyyuUvVDZR6PTfb
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727473052012 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1aricAAAAAQAAAAEAAAAAAAAAAAwEn3zrSIyFg_b4kJr7m1_gjc_G0OyyuUvVDZR6PTfb
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727473055068 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1avWvAAAAAQAAAAEAAAAAAAAAAO0ywuoulaLxwNAZVhES-d4OpIkY2WmpnfkjsvrgxkUu
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727473058235 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1avWvAAAAAQAAAAEAAAAAAAAAAO0ywuoulaLxwNAZVhES-d4OpIkY2WmpnfkjsvrgxkUu
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727473061298 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1avWvAAAAAQAAAAEAAAAAAAAAAO0ywuoulaLxwNAZVhES-d4OpIkY2WmpnfkjsvrgxkUu
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727473064384 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1avWvAAAAAQAAAAEAAAAAAAAAAO0ywuoulaLxwNAZVhES-d4OpIkY2WmpnfkjsvrgxkUu
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727473067449 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1avWvAAAAAQAAAAEAAAAAAAAAAO0ywuoulaLxwNAZVhES-d4OpIkY2WmpnfkjsvrgxkUu
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727473070563 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1azIQAAAAAQAAAAEAAAAAAAAAAJaD1ewvbWDU3Q85ba1XEFvsgmHV2Nf3fDVeXMFgIWh6
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727473073751 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1azIQAAAAAQAAAAEAAAAAAAAAAJaD1ewvbWDU3Q85ba1XEFvsgmHV2Nf3fDVeXMFgIWh6
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727473076827 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1azIQAAAAAQAAAAEAAAAAAAAAAJaD1ewvbWDU3Q85ba1XEFvsgmHV2Nf3fDVeXMFgIWh6
+
+TUNNELS
+policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+custom-result.gl.at.ply.gg:3784 => 127.0.0.1:19132 (minecraft-bedrock)
+telephone-alcohol.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1727473079915 tunnel running, 3 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAxi6wAAAZI1azIQAAAAAQAAAAEAAAAAAAAAAJaD1ewvbWDU3Q85ba1XEFvsgmHV2Nf3fDVeXMFgIWh6
 
 TUNNELS
 policies-grade.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
